@@ -102,19 +102,19 @@ nav li
     width: 50px;
 }
 
-.banner 
-{ 
-    position: relative; 
-    overflow: auto; 
+.banner
+{
+    position: relative;
+    overflow: auto;
     width: 100%;
     margin-left: 0;
 }
 
-.banner li 
-{ 
+.banner li
+{
     width: 95%;
     float: left;
-    list-style: none; 
+    list-style: none;
 }
 
 .banner ul li
@@ -127,7 +127,7 @@ nav li
 .banner ul li img
 {
     margin-left: auto;
-    width: 100%;
+    width: 50%;
     margin-right: auto;
     vertical-align: middle;
 }
@@ -162,7 +162,7 @@ nav li
 .footer a
 {
     display: block;
-    margin-top: 30px;    
+    margin-top: 30px;
     float: left;
     margin-left: 20%;
     height: 100px;
@@ -189,7 +189,7 @@ nav li
 {
     margin-left: 30%;
     margin-right: 30%;
-    
+
     display: block;
 }
 
